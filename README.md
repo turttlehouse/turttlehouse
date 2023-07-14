@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif width="100" height="100"?username=turttlehouse&style=flat-square&color=blue" alt=""/>
+<img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?username=turttlehouse&style=flat-square&color=blue"/>
 ### Hi there 👋
 
 
