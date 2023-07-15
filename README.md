@@ -1,9 +1,5 @@
 <img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?username=turttlehouse&style=flat-square&color=black"/>
 ### Hi there 👋
-
-
-**turttlehouse/turttlehouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .NETCore Projects
