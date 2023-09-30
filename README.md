@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?username=turttlehouse&style=flat-square&color=black"/>
 
 
-<div id="header" align="right">
+<!--<div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nishant-timsina-405134208">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
