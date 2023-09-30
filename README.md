@@ -1,14 +1,14 @@
-<img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?username=turttlehouse&style=flat-square&color=black" width=100px heigth =100px/>
+<img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?username=turttlehouse&style=flat-square&color=black" width=100% heigth =500px/>
 
 
 <!--<div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/bishal-yakkha-77990526b/" target="__blank">
+  <a href="https://www.linkedin.com/in/bishal-yakkha-77990526b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/jimee0007" target="__blank">
+  <a href="https://twitter.com/jimee0007" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <div><img src="https://komarev.com/ghpvc/?username=nishant51&style=flat-square&color=blue" alt=""/></div>
