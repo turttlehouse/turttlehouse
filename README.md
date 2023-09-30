@@ -15,11 +15,11 @@
 </div>
 
 ### Hi there 👋
-Here are some ideas to get you started:
+Let me provide you with some insights into my current activities and interests:
 
 - 🔭 I’m currently working on NodeJS Projects.
-- 🌱 I’m currently learning NodeJS and .NETCore Framework.
-- 👯 I’m looking to collaborate on React,Angular & Django.
+- 🌱"I'm in the process of learning NodeJS and .NETCore Framework.
+- 👯 I'm open to collaboration in areas like React, Angular, and Django.
 
   📫 Feel free to reach out to me if you'd like to connect, collaborate, or discuss anything related to computer science and information technology.
   Let's embark on this journey together! 
@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 <!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=turttlehouse&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
 
 
 ### :hammer_and_wrench: Languages and Tools :
