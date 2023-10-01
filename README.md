@@ -15,9 +15,7 @@
 <div><img src="https://komarev.com/ghpvc/?username=turttlehouse&style=flat-square&color=blue" alt=""/></div>
 </div>
 ### Hi there 👋
-
-Let me provide you with some insights into my current activities and interests:
-
+🚀 Here's a glimpse into what I'm up to:
 - 🔭 I’m currently working on NodeJS Projects.
 - 🌱"I'm in the process of learning NodeJS and .NETCore Framework.
 - 👯 I'm open to collaboration in areas like React, Angular, and Django.
