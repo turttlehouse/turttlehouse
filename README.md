@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?username=turttlehouse&style=flat-square&color=black" width=100% height =150px/>
+<img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?username=turttlehouse&style=flat-square&color=black" width=150px% height =150px/>
 
 
 <!--<div id="header" align="right">
