@@ -29,7 +29,7 @@
 🚀 Here's a glimpse into what I'm up to:
 
 - 🔭 I’m currently working on NodeJS Projects.
-- 🌱"I'm in the process of learning NodeJS and .NETCore Framework.
+- 🌱"I'm in the process of learning MERN stack and .NETCore Framework.
 - 👯 I'm open to collaboration in areas like React, Angular, and Django.
 
   📫 Feel free to reach out to me if you'd like to connect, collaborate, or discuss anything related to computer science and information technology.
