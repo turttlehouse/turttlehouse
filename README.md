@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on NodeJS Projects.
 - 🌱"I'm in the process of learning MERN stack and .NETCore Framework.
-- 👯 I'm open to collaboration in areas like React, Angular, and Django.
+- 👯 I'm open to collaboration in areas like React, Angular,NodeJs and Django.
 
   📫 Feel free to reach out to me if you'd like to connect, collaborate, or discuss anything related to computer science and information technology.
   Let's embark on this journey together! 
